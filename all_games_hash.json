@@ -2,23 +2,23 @@
   "games": {
     "ludo": {
       "hash": "3ab24218",
-      "generatedAt": "2026-01-08T06:46:18.627Z"
+      "generatedAt": "2026-01-12T08:26:46.136Z"
     },
     "snl": {
       "hash": "ad21f6fa",
-      "generatedAt": "2026-01-08T06:46:18.673Z"
+      "generatedAt": "2026-01-12T08:26:46.230Z"
     },
     "mafia": {
-      "hash": "59c03e7b",
-      "generatedAt": "2026-01-08T06:46:18.711Z"
+      "hash": "55bec8a1",
+      "generatedAt": "2026-01-12T08:26:46.293Z"
     },
     "pictionary": {
       "hash": "69ce5473",
-      "generatedAt": "2026-01-08T06:46:18.727Z"
+      "generatedAt": "2026-01-12T08:26:46.319Z"
     },
     "drmonkey": {
       "hash": "cf5e221b",
-      "generatedAt": "2026-01-08T06:46:18.744Z"
+      "generatedAt": "2026-01-12T08:26:46.350Z"
     }
   }
 }
